@@ -1,2 +1,2 @@
-name=input("enter name")
+name=input("enter name: ")
 print(len(name))
